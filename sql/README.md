@@ -1,7 +1,7 @@
 ## Project Screenshots
 
 ### Dataset Preview
-![Dataset Preview](screenshots/01-dataset-preview.png)
+![Dataset Preview](screenshots/01-dataset-preview.png.png)
 
 ### Basic SQL Queries
 ![Basic SQL Queries](screenshots/02-basic-sql-queries.png)
