@@ -82,7 +82,7 @@ Feel free to connect with me and explore my data analytics projects!
 
 ### ⭐ Thanks for visiting my profile!
 
-*Turning data into insights, one project at a time.*
+Turning data into insights, one project at a time.
 
 
 ## 🛠️ Technologies & Tools
