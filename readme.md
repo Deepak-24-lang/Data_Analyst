@@ -1,44 +1,85 @@
-# 📊 Data Analyst Portfolio
+# 👋 Hi, I'm Deepak Kumar
 
-Welcome to my Data Analytics portfolio!
+### 📊 Aspiring Data Analyst | SQL | Excel | Python | Power BI
 
-I'm Deepak, an aspiring Data Analyst passionate about working with data, solving problems, and discovering meaningful insights.
+Welcome to my GitHub profile!
 
-## 🎯 About Me
-- Currently learning Data Analytics.
-- Practicing SQL and database management.
-- Exploring Excel, Python and Power BI.
-- Building practical projects to improve my analytical skills.
+I'm an aspiring Data Analyst passionate about transforming raw data into meaningful insights and supporting data-driven business decisions.
 
-## 🛠️ Technical Skills
-
-- SQL
-- Microsoft Excel
-- Python
-- Power BI
-- Data Analysis
-
-## 📂 Repository Structure
-
-- 01-SQL – SQL practice and queries
-- 02-Excel – Excel exercises and dashboards
-- 03-Python – Python learning and practice
-- 04-Power-BI – Power BI reports and dashboards
-- 05-Projects – Data analytics projects
-- 06-Datasets – Practice datasets
-
-## 🚀 My Goal
-
-To become a skilled Data Analyst by continuously learning, practicing and building real-world projects.
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Deepak-24-lang/Data_Analyst.git
-- LinkedIn: https://www.linkedin.com/in/deepak24kumar
+I'm building my analytical skills through hands-on projects, real-world datasets, and continuous learning.
 
 ---
 
-⭐ Thanks for visiting my portfolio!
+## 🚀 About Me
+
+- 🔍 Interested in Data Analytics and Business Intelligence.
+- 📊 Practicing data cleaning, analysis, and visualization.
+- 💻 Building practical projects using SQL, Excel, Python, and Power BI.
+- 🌱 Continuously learning new analytical tools and techniques.
+- 🎯 Working towards becoming a professional Data Analyst.
+
+---
+
+## 🛠️ Technical Skills
+
+| Skill | Technologies |
+|---|---|
+| Database | SQL, MySQL |
+| Spreadsheet | Microsoft Excel |
+| Programming | Python |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Power BI |
+| Version Control | Git, GitHub |
+
+---
+
+## 📂 Featured Projects
+
+### 1. 🛒 Superstore SQL Business Analysis
+- Analyzed retail sales data using SQL.
+- Practiced JOINs, GROUP BY, aggregate functions, and business queries.
+- Explored sales and business performance.
+
+### 2. 📈 Excel Data Cleaning
+- Cleaned and organized raw datasets.
+- Practiced Excel formulas and data preparation.
+- Improved data quality for analysis.
+
+### 3. 🏪 Retail Sales Analysis
+- Explored retail sales datasets.
+- Practiced SQL-based business analysis.
+- Worked on extracting meaningful business insights.
+
+**Explore all my projects:** [Data Analyst Repository](https://github.com/Deepak-24-lang/Data_Analyst)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Python for Data Analytics
+- Power BI Dashboards
+- Exploratory Data Analysis (EDA)
+- Business Intelligence
+
+---
+
+## 🌐 My Portfolio
+
+🚀 **[Visit My Live Data Analyst Portfolio](https://deepak-24-lang.github.io/Data_Analyst/)**
+
+---
+
+## 🤝 Connect With Me
+
+- 💻 GitHub: [Deepak-24-lang](https://github.com/Deepak-24-lang)
+- 🌐 Portfolio: [My Data Analyst Portfolio](https://deepak-24-lang.github.io/Data_Analyst/)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+*Turning data into insights, one project at a time.*
 
 
 ## 🛠️ Technologies & Tools
