@@ -39,3 +39,14 @@ To become a skilled Data Analyst by continuously learning, practicing and buildi
 ---
 
 ⭐ Thanks for visiting my portfolio!
+
+
+## 🛠️ Technologies & Tools
+
+![SQL](https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Learning-green?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-Learning-orange?style=for-the-badge&logo=powerbi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github&logoColor=white)
+
