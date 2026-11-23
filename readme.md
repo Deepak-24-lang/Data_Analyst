@@ -72,8 +72,11 @@ I'm building my analytical skills through hands-on projects, real-world datasets
 
 ## 🤝 Connect With Me
 
-- 💻 GitHub: [Deepak-24-lang](https://github.com/Deepak-24-lang)
-- 🌐 Portfolio: [My Data Analyst Portfolio](https://deepak-24-lang.github.io/Data_Analyst/)
+- 💻 **GitHub:** [Deepak-24-lang](https://github.com/Deepak-24-lang)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/deepak24kumar/)
+- 🌐 **Portfolio:** [View My Portfolio](https://deepak-24-lang.github.io/Data_Analyst/)
+
+Feel free to connect with me and explore my data analytics projects!
 
 ---
 
